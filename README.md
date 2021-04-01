@@ -1,1 +1,2 @@
-# Hitting
+# Geologist
+Geologist Project
